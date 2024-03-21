@@ -26,12 +26,16 @@ Take the following parameters as a user input:
 
 Add a `Submit` button which will create a `Survey.txt` file in the current directory and save the given arguments.
 
-# Evaluation instructions:
+# Evaluation instructions:<br>
+Do any 1 of the following below:
 <h3>Download from release section</h3>
 
 1. Go to the [Releases](https://github.com/D3FAU4T/Survey-Form/releases) section
-2. Download the `Survey Form.exe` file.
+2. Download the `Survey Form.exe` file from the assets section.
 3. Run the file and test yourself
+
+-------    OR    -------
+
 <h3>Build manually (You're a pro at this 👌)</h3>
 
 1. Open a terminal at a directory where you want to save the project
