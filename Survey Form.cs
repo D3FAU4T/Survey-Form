@@ -75,7 +75,7 @@ namespace Survey_Form
             RoleSelection.Items.Add("Developer");
 
             FCCselection.Text = "Select an option";
-            FCCselection.Items.Add("Developping projects");
+            FCCselection.Items.Add("Developing projects");
             FCCselection.Items.Add("Collaborating with others");
             FCCselection.Items.Add("Organizing events");
         }
